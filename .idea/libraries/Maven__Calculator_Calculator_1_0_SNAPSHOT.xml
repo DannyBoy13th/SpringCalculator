@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: Calculator:Calculator:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/Calculator/Calculator/1.0-SNAPSHOT/Calculator-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/Calculator/Calculator/1.0-SNAPSHOT/Calculator-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/Calculator/Calculator/1.0-SNAPSHOT/Calculator-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/Calculator/Calculator/3.0-FINAL/Calculator-3.0-FINAL.jar!/" />
+    </SOURCES>
+  </library>
+</component>
