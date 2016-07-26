@@ -28,7 +28,7 @@ public class Bootstrap {
         calculator.setOperations(provider.getAllOperations());
         calculator.setParser(parser);
 
-        System.out.println("Please enter numbers you want yo count in this format:(number/operator/number)");
+        System.out.println("Please enter numbers you want you count in this format:(number/operator/number)");
         String task = scanner.nextLine();
 
         System.out.println("Result: " + task + '=' + calculator.calculate(task));
