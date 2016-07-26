@@ -42,7 +42,7 @@
         <dependency>
             <groupId>Calculator</groupId>
             <artifactId>Calculator</artifactId>
-            <version>4.0-FINAL</version>
+            <version>4.0-Final</version>
         </dependency>
 
         <dependency>

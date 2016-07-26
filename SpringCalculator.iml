@@ -83,7 +83,7 @@
     <orderEntry type="library" name="Maven: velocity:velocity:1.4" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: velocity:velocity-dep:1.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.doxia:doxia-decoration-model:1.0-alpha-7" level="project" />
-    <orderEntry type="library" name="Maven: Calculator:Calculator:4.0-FINAL" level="project" />
+    <orderEntry type="library" name="Maven: Calculator:Calculator:4.0-Final" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.1.RELEASE" level="project" />
