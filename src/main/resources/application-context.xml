@@ -7,6 +7,12 @@
 
     <bean id = "multiply" class = "Multiply"></bean>
     <bean id = "divide" class="Divide"></bean>
+
+    <bean id="loggerImpl" class="LoggerImpl"/>
+    <bean class="org.springframework.aop.framework.autoproxy.BeanNameAutoProxyCreator">
+        <property name="beanNames" value="bootstrap"/>
+        <property name="interceptorNames" value="loggerImpl"/>
+    </bean>
     
 
 
